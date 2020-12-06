@@ -1,0 +1,17 @@
+{
+  "name": "euphoria",
+  "version": "1.0.0",
+  "description": "Euphoria assignment",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "nodemon src/index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepansh Nagaria",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.4",
+    "nodemon": "^2.0.6"
+  }
+}
